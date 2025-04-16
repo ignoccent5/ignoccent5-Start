@@ -10,7 +10,7 @@ public class Questions {
         /* 
          * What line number represents the end of the "accelerate" method?
          */
-        return 11; // Correct, assuming line numbers match
+        return 14; // Correct, assuming line numbers match
     }
 
     String question3(){
